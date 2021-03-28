@@ -5,7 +5,7 @@ collections:
   posts:
     permalink: '/posts/:title/'
 layout_style: overflow
-palette: green
+palette: dark-green
 header:
   title: Stackbit Fresh
   tagline: Header Tagline
